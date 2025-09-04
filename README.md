@@ -24,6 +24,8 @@ The goal of this project was to automate PCB defect detection, traditionally per
 ## 📄 Documentation
 The full paper, including methodology, experimental results, and visualizations, can be found here:  
 👉 [**Final Report**](./docs/PCB_Defect_Detection_Paper.pdf)  
+👉 [**Final Presentation**](./docs/PCB_Defect_Presentation.pdf)  
+
 
 ## 🔖 Notes
 - The dataset was augmented to address class imbalance and increase robustness.  
